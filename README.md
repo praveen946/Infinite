@@ -1,2 +1,2 @@
 # Infinite
-testing repo
+testing repo simpligo
